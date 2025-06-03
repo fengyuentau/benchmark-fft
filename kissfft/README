@@ -1,0 +1,5 @@
+Steps to get and build kissfft:
+
+1. Get kissfft: git clone https://github.com/mborgerding/kissfft.git
+2. Run build.sh
+

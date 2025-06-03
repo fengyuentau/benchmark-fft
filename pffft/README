@@ -1,0 +1,5 @@
+Steps to get and build pffft:
+
+1. Get pffft: git clone https://bitbucket.org/jpommier/pffft
+2. Run build.sh
+

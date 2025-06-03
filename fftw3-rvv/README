@@ -1,0 +1,6 @@
+Steps to get and build fftw3-rvv:
+
+1. Get fftw3+r5v: https://github.com/rdolbeau/fftw3/releases/tag/r5v-test-release-005
+2. Decompress and put fftw-3.3.10 here.
+3. Run build.sh
+

@@ -1,0 +1,5 @@
+Steps to get and build opencv:
+
+1. Get opencv: git clone https://github.com/opencv/opencv
+2. Run build.sh (SpacemiT toolchain is needed)
+
